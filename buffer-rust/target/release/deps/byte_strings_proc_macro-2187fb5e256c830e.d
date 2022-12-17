@@ -1,0 +1,9 @@
+/home/michwqy/buffer-rust_refactored/target/release/deps/libbyte_strings_proc_macro-2187fb5e256c830e.so: /home/michwqy/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-strings-proc-macro-0.1.1/src/lib.rs /home/michwqy/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-strings-proc-macro-0.1.1/src/concat_bytes.rs /home/michwqy/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-strings-proc-macro-0.1.1/src/as_bytes.rs /home/michwqy/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-strings-proc-macro-0.1.1/src/identity_non_null.rs /home/michwqy/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-strings-proc-macro-0.1.1/src/c_str.rs
+
+/home/michwqy/buffer-rust_refactored/target/release/deps/byte_strings_proc_macro-2187fb5e256c830e.d: /home/michwqy/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-strings-proc-macro-0.1.1/src/lib.rs /home/michwqy/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-strings-proc-macro-0.1.1/src/concat_bytes.rs /home/michwqy/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-strings-proc-macro-0.1.1/src/as_bytes.rs /home/michwqy/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-strings-proc-macro-0.1.1/src/identity_non_null.rs /home/michwqy/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-strings-proc-macro-0.1.1/src/c_str.rs
+
+/home/michwqy/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-strings-proc-macro-0.1.1/src/lib.rs:
+/home/michwqy/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-strings-proc-macro-0.1.1/src/concat_bytes.rs:
+/home/michwqy/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-strings-proc-macro-0.1.1/src/as_bytes.rs:
+/home/michwqy/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-strings-proc-macro-0.1.1/src/identity_non_null.rs:
+/home/michwqy/.cargo/registry/src/github.com-1ecc6299db9ec823/byte-strings-proc-macro-0.1.1/src/c_str.rs:

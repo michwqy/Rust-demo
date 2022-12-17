@@ -1,0 +1,20 @@
+[package]
+name = "buffer"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "buffer"
+path = "buffer.rs"
+crate-type = ["staticlib", "rlib"]
+
+[[bin]]
+path = "test.rs"
+name = "buffer"
+
+[dependencies]
+libc = "0.2"
+byte-strings = "0.1"
+
+
+

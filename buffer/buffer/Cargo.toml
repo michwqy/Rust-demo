@@ -1,0 +1,12 @@
+[package]
+name = "buffer"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "rust_buffer"
+crate-type = ["staticlib"]
+path = "src/mybuffer.rs"
+
+[dependencies]
+libc = "0.2"
